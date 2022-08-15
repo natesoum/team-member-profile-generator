@@ -30,7 +30,7 @@
 
   ## Mockup 
 
-  ![mockup](./assets/images/team-mockup.jpg);
+  ![mockup](./assets/images/team-mockup.jpg)
 
   ## Questions
 
