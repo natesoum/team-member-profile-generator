@@ -19,6 +19,10 @@
   This project solves any team that would love to put together a small website together to keep information for their team! 
 
   I learned a ton, test driven development & OOP had me confused for a long time. I spent a ton of time looking at my screen not knowing where to start but eventually I was able to put the pieces together and build this project that gave me a better understanding on JavaScript, Node & all things in between.
+  
+  [Video Link](https://drive.google.com/file/d/1C0FIc0oleC09VnjZiSN_xCfO-q4OVzcP/view)
+  
+  ![QR Code](./assets/images/qrcode.jpg)
 
   ## Installation
 
